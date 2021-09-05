@@ -9,7 +9,7 @@ Source code of "The C Programming Language - 2nd Edition" (in Japanese, "プロ�
 
 ## Table of Contents
 
-- [ ] Chapter 0. はじめに
+- [x] Chapter 0. はじめに
 - [ ] Chapter 1. やさしい入門
 - [ ] Chapter 2. データ型・演算子・式
 - [ ] Chapter 3. 制御の流れ
